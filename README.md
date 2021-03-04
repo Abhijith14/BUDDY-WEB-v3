@@ -5,7 +5,7 @@
   Abhijith14/BUDDY-WEB-v3
 </h1>
 <p align="center">
-  The Second iteration of <a href="https://createwithbuddy.tech" target="_blank">BUDDY-WEBSITE</a>
+  The Third iteration of <a href="https://createwithbuddy.tech" target="_blank">BUDDY-WEBSITE</a>
 </p>
 
 <p align="center">
