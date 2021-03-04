@@ -33,4 +33,4 @@ I value keeping my site open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [CreateWithBuddy.tech](https://createwithbuddy.tech). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/BUDDY-WEB-v3](https://github.com/Abhijith14/BUDDY-WEB-v3/). Thanks!
