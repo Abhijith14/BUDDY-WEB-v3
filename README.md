@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/Abhijith14/BUDDY-WEB-v3/master/readme_assets/logo.png" width="400" />
+  <img alt="Logo" src="readme_assets/demo.png" width="400" />
 </div>
 <h1 align="center">
   Abhijith14/BUDDY-WEB-v3
@@ -22,7 +22,7 @@
 </p>
 -->
 
-![demo](https://raw.githubusercontent.com/Abhijith14/BUDDY-WEB-v3/master/readme_assets/index.png)
+![demo](readme_assets/logo.png)
 
 ## 🚨 Forking this repo (please read!)
 
